@@ -1,16 +1,23 @@
-## Hi there 👋
+# Danish Chaudhary
 
-<!--
-**danishchaudhary0786/danishchaudhary0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | SDET
 
-Here are some ideas to get you started:
+I am a QA Automation Engineer with 3.3+ years of experience in UI, API, and automation framework development. I focus on scalable test automation, AI-driven QA productivity, and reducing manual testing effort.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Selenium (Python, Java)
+- Pytest, TestNG
+- API Testing (Postman, REST)
+- Appium Mobile Automation
+- JMeter Load Testing
+- Jenkins CI/CD
+- MySQL, Redis
+- Docker, Git, Agile
+
+### Current Work
+- AI Test Case Generator
+- Automation Framework Optimization
+- QA Productivity Automation
+
+### Connect
+LinkedIn: https://www.linkedin.com/in/danish-chaudhary-26a2951a2/
