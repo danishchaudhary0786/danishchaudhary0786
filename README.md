@@ -24,5 +24,5 @@ LinkedIn: https://www.linkedin.com/in/danish-chaudhary-26a2951a2/
 
 ### Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,selenium,jenkins,docker,mysql,redis,git" />
+<img src="https://skillicons.dev/icons?i=python,java,selenium,jenkins,docker,mysql,redis,git,postman" />
 </p>
