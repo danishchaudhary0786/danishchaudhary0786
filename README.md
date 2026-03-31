@@ -21,3 +21,8 @@ I am a QA Automation Engineer with 3.3+ years of experience in UI, API, and auto
 
 ### Connect
 LinkedIn: https://www.linkedin.com/in/danish-chaudhary-26a2951a2/
+
+### Languages and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,selenium,jenkins,docker,mysql,redis,git" />
+</p>
